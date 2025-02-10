@@ -14,8 +14,10 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+DISPLAY_CATEGORIES_ON_MENU = False
+SITESUBTITLE = "A professional hacker's amateur tinkerings."
 
-STYLESHEET_URL = "/theme/static/css/main.css"
+STYLESHEET_URL = "theme/css/style.css"
 
 THEME = "theme"
 
