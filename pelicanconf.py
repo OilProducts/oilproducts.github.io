@@ -15,7 +15,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-STYLESHEET_URL = "https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+STYLESHEET_URL = "/theme/static/css/main.css"
 
 THEME = "theme"
 
